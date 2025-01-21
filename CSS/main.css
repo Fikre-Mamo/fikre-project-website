@@ -1,8 +1,4 @@
-body {
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
-  background-color: rgb(29, 27, 27);
-}
-
-.bold {
-    font-size: larger;
+@import url('https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@300..900&display=swap');
+.field, #submitButton {
+  display: none;
 }
